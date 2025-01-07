@@ -11,7 +11,7 @@ coleta, transformação e visualização dos dados.
 
 SCRAPING_RELOGIO_MASCULINO/
 ├── .venv/                      # Ambiente virtual para dependências do Python
-├── data/                       # Diretório para armazenamento de dados coletados
+├── dados/                       # Diretório para armazenamento de dados coletados
 ├── src/
 │   ├── coleta/
 │   │   ├── spiders/
