@@ -1,4 +1,4 @@
-# 🚀 Pipeline de Dados de - Análise de Produtos
+# 🚀 Pipeline de Dados - Análise de Produtos
 
 ## 📋 Decrição do projeto
 
