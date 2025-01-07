@@ -1,10 +1,11 @@
-# 🚀 Pipeline de Dados do Mercado Livre - Análise de Produtos
+# 🚀 Pipeline de Dados de - Análise de Produtos
 
 ## 📋 Decrição do projeto
 
 Este projeto realiza o web scraping de Variação de preços deprodutos do supermercado, processa os dados extraídos e 
 os apresenta em um dashboard interativo. A estrutura é organizada para facilitar o fluxo de 
 coleta, transformação e visualização dos dados.
+
 
 ```bash
 
