@@ -6,6 +6,7 @@ Este projeto realiza o web scraping de Variação de preços de produtos do supe
 os apresenta em um dashboard interativo. A estrutura é organizada para facilitar o fluxo de 
 coleta, transformação e visualização dos dados.
 
+
 ```bash
 
 SCRAPING_RELOGIO_MASCULINO/
