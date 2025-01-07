@@ -2,7 +2,7 @@
 
 ## 📋 Decrição do projeto
 
-Este projeto realiza o web scraping de Variação de preços deprodutos do supermercado, processa os dados extraídos e 
+Este projeto realiza o web scraping de Variação de preços de produtos do supermercado, processa os dados extraídos e 
 os apresenta em um dashboard interativo. A estrutura é organizada para facilitar o fluxo de 
 coleta, transformação e visualização dos dados.
 
@@ -10,12 +10,12 @@ coleta, transformação e visualização dos dados.
 ```bash
 
 SCRAPING_RELOGIO_MASCULINO/
-├── .venv/                      # Ambiente virtual para dependências do Python
+├── .venv/                       # Ambiente virtual para dependências do Python
 ├── dados/                       # Diretório para armazenamento de dados coletados
 ├── src/
 │   ├── coleta/
 │   │   ├── spiders/
-│   │   │   └── mercado.py # Spider para extração de dados de relógios masculinos
+│   │   │   └── mercado.py      # Spider para extração de dados 
 │   │   ├── items.py            # Definição do modelo de dados
 │   │   ├── middlewares.py      # Middlewares para processamento durante o scraping
 │   │   ├── pipelines.py        # Pipeline para processamento pós-coleta
