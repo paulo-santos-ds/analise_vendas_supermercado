@@ -6,7 +6,7 @@ Este projeto realiza o web scraping de Variação de preços deprodutos do super
 os apresenta em um dashboard interativo. A estrutura é organizada para facilitar o fluxo de 
 coleta, transformação e visualização dos dados.
 
-
+```bash
 
 SCRAPING_RELOGIO_MASCULINO/
 ├── .venv/                      # Ambiente virtual para dependências do Python
@@ -27,23 +27,24 @@ SCRAPING_RELOGIO_MASCULINO/
 ├── .python-version             # Versão do Python utilizada no projeto
 ├── Pipeline.jpg                # Imagem ilustrativa do fluxo do pipeline
 └── README.md                   # Documentação do projeto
+```
 
 ## 💻 Funcionalidades
 1. Extração de Dados (Extract)
-🔍 Coleta automatizada de dados de relógios masculinos do Mercado Livre
-📦 Extração de informações como preços, avaliações, marcas e categoria
-💾 Armazenamento inicial em formato JSONL
+- 🔍 Coleta automatizada de dados de relógios masculinos do Mercado Livre
+- 📦 Extração de informações como preços, avaliações, marcas e categoria
+- 💾 Armazenamento inicial em formato JSONL
 2. Transformação (Transform)
-🧹 Limpeza e padronização dos dados
-🔄 Tratamento de valores nulos
-📊 Conversão de tipos de dados
-💰 Cálculos de preços totais
+- 🧹 Limpeza e padronização dos dados
+- 🔄 Tratamento de valores nulos
+- 📊 Conversão de tipos de dados
+- 💰 Cálculos de preços totais
 3. Carga (Load)
-🗄️ Armazenamento em banco de dados SQLite
-⚡ Estruturação otimizada para consultas
+- 🗄️ Armazenamento em banco de dados SQLite
+- ⚡ Estruturação otimizada para consultas
 4. Visualização (Dashboard)
-📈 KPIs principais do negócio
-🏆 Rankings de produtos e marcas
-📉 Análises de preços e avaliações
-📊 Gráficos interativos
-🔧 Como Executar
+- 📈 KPIs principais do negócio
+- 🏆 Rankings de produtos e marcas
+- 📉 Análises de preços e avaliações
+- 📊 Gráficos interativos
+- 🔧 Como Executar
