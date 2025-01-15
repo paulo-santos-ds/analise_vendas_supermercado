@@ -7,7 +7,6 @@ os apresenta em um dashboard interativo. A estrutura é organizada para facilita
 coleta, transformação e visualização dos dados.
 
 
-
 ```bash
 
 SCRAPING_RELOGIO_MASCULINO/
